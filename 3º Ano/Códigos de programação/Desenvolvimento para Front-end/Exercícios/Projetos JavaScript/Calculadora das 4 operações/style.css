@@ -1,0 +1,39 @@
+body {
+    background-color: whitesmoke;
+
+
+
+}
+div#container{
+    display: flex;
+    justify-content: center;
+
+}
+div#box{
+    margin-top: 10px;
+}
+
+input{
+    margin-top: 5px;
+
+
+}
+
+button{
+    margin-top: 10px;
+}
+
+
+
+
+
+html{
+    font-family: Arial;
+}
+h1{
+    text-align: center;
+}
+p#resposta{
+    text-align: center;
+    color: red;
+}
