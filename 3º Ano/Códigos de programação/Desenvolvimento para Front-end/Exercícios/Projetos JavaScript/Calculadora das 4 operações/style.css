@@ -1,6 +1,7 @@
 body {
     background-color: whitesmoke;
-
+    font-family: Arial;
+    background-image: linear-gradient(to right, whitesmoke, rgb(172, 172, 172));
 
 
 }
@@ -27,9 +28,6 @@ button{
 
 
 
-html{
-    font-family: Arial;
-}
 h1{
     text-align: center;
 }
